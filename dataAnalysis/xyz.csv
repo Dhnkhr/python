@@ -1,0 +1,11 @@
+CustomerId,FirstName,LastName,Email,JoinDate,TotalSpent,Status
+1001,Liam,Conner,liam.c@example.com,2025-01-15,450.25,Active
+1002,Olivia,Martinez,olivia.m@example.com,2025-02-18,89.99,Active
+1003,Ethan,Brooks,ebrooks@example.com,2025-03-02,0.0,Inactive
+1004,Sophia,Yang,sophia.y@example.com,2025-05-12,1250.5,Premium
+1005,Jackson,Tate,jtate@example.com,2025-06-20,320.0,Active
+1006,Emma,Smith,emma.s@example.com,2025-07-11,75.5,Active
+1007,Lucas,Davis,lucas.d@example.com,2025-08-30,2100.0,Premium
+1008,Ava,Brown,ava.b@example.com,2025-09-05,0.0,Inactive
+1009,Mia,Garcia,mia.g@example.com,2025-10-22,540.75,Active
+1010,Oliver,Rodriguez,oliver.r@example.com,2025-11-14,980.0,Premium
